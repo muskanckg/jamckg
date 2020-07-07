@@ -1,4 +1,3 @@
-#coded by Jam Shahrukh
 #!/usr/bin/python2
 #coding=utf-8
 
@@ -58,7 +57,6 @@ logo = """
 \033[1;92m              |  |   | (   ) | | |   | |
 \033[1;92m           |\_)  )   | )   ( | | )   ( |
 \033[1;92m           (____/    |/     \| |/     \|
-\033[1;97m          ♨️°C-K-G(JAM-SHAHRUKH)C-K-G°♨️ 
 \033[1;97m          ♨️°C-K-G(MUSKAN-NOOR)C-K-G°♨️
 """
 def tik():

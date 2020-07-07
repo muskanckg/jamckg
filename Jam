@@ -57,6 +57,7 @@ logo = """
 \033[1;92m              |  |   | (   ) | | |   | |
 \033[1;92m           |\_)  )   | )   ( | | )   ( |
 \033[1;92m           (____/    |/     \| |/     \|
+\033[1;97m          ♨️°─────(MUSKAN-NOOR)─────°♨️  
 """
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -95,7 +96,7 @@ print  """
 """
 
 CorrectUsername = "jam"
-CorrectPassword = "jam"
+CorrectPassword = "muskan"
 
 
 loop = 'true'
@@ -315,7 +316,7 @@ def pilih_super():
 	print "\n\033[1;97m  ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 
 	jalan('       \033[1;97mJam start cloning Wait...')
-	print  " \033[1;36;48m●════════════════════◄JAM►════════════════════●" 
+	print  " \033[1;36;48m●════════════════════◄CKG►════════════════════●" 
 
 	def main(arg):
 		global cekpoint,oks
@@ -434,7 +435,7 @@ def pilih_super():
 	print "\033[1;32;40m[+] Total OK/\033[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;31;40m/\033[1;36;40m"+str(len(cekpoint))
 	print '\033[1;34;40m[+] CP File Has Been Saved : save/cp.txt'
 	print """
-\033[1;31;40m●════════════════════════◄JAM►════════════════════════●
+\033[1;31;40m●════════════════════════◄CKG►════════════════════════●
            """
 	raw_input("\n\033[1;97m[\033[1;97mExit\033[1;97m]")
 	super()
